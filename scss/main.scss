@@ -1,0 +1,22 @@
+html[data-theme='dark'] {
+    --bg: #171c28;
+    --color-text: white;
+}
+
+html[data-theme='light'] {
+    --bg: #ffffff;
+    --color-text: #111111;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--color-text);
+}
+
+.navbar, .ftco_navbar {
+    background-color: var(--bg);
+}
+
+a {
+    color: var(--color-text);
+}
