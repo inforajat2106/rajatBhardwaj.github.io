@@ -34,7 +34,7 @@
 }
 
 .toggle-container input:checked+label {
-    background: #3e64ff;
+    background: #000000;
 }
 
 .toggle-container input:checked+label:after {
@@ -85,3 +85,8 @@ body {
 a {
     color: var(--color-text);
 }
+
+.txt-rotate {
+    color: #c10e0e;
+    font-weight: bold;
+  }

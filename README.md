@@ -1,2 +1,2 @@
-# who-am-i
-Portfolio 
+Automating Quality | Accelerating Delivery — My digital space for projects, blogs, and QA insights
+
